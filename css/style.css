@@ -19,7 +19,7 @@ body {
 
 #gear-head > div {
   position: relative;
-  background-image: url("gear-head.jpg");
+  background-image: url("/images/gear-head.jpg");
   background-repeat: no-repeat;
   background-position: top center;
   background-size: 100%;
